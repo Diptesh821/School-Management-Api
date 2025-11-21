@@ -346,12 +346,8 @@ Observe schools sorted by proximity to **(12.9716, 77.5946)**.
 
 ## **Contact Information**
 
-- **Name**: *Diptesh Singh*  
-- **Skills**: Node.js (4/5), Express.js, MySQL  
-- **Resume**: https://drive.google.com/file/d/1pQjm-0iAHaBxwE2fHEi9GUavw8nTmb83/view?usp=drivesdk
-- **Phone**: *7847890495*  
+- **Name**: *Diptesh Singh*    
 - **Email**: *dipteshpiku@gmail.com*  
-- **Source Code**: https://github.com/Diptesh821/Educase-Assignment
 - **Live Endpoints**: *https://educase-assignment-tfkm.onrender.com*  
 - **Postman Collection**: https://drive.google.com/file/d/1pQmo7Iphu5k7didULoz7K3vQ52Pvr1tR/view?usp=drivesdk
 
@@ -360,4 +356,5 @@ Observe schools sorted by proximity to **(12.9716, 77.5946)**.
 ---
 
 This project demonstrates my ability to build a **RESTful Node.js** service with **MySQL** integration, **validation**, **distance-based sorting**, and comprehensive **Postman** testing.
+
 
