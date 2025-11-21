@@ -359,4 +359,5 @@ Observe schools sorted by proximity to **(12.9716, 77.5946)**.
 
 ---
 
-**Thank you for reviewing my School Management API!** This project demonstrates my ability to build a **RESTful Node.js** service with **MySQL** integration, **validation**, **distance-based sorting**, and comprehensive **Postman** testing. I appreciate your consideration for the **internship opportunity** and look forward to discussing this further.
+This project demonstrates my ability to build a **RESTful Node.js** service with **MySQL** integration, **validation**, **distance-based sorting**, and comprehensive **Postman** testing.
+
